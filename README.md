@@ -78,7 +78,9 @@ I build **scalable web platforms** and **high-performance mobile apps** focused 
 <br>
 <a href="https://play.google.com/store/apps/details?id=com.blisssty.shoping.online">
    <img src="https://img.shields.io/badge/Blisssty-Download-green?style=for-the-badge&logo=google-play"/>
+</a>
 
+---
 
 ### 🍎 iOS
 
