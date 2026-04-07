@@ -1,120 +1,108 @@
-<h1 align="center">Hey 👋, I'm Daksh Prajapati</h1>
-<h3 align="center">Full-Stack & Mobile App Developer | MERN + Flutter</h3>
+<h1 align="center">Daksh Prajapati</h1>
+<h3 align="center">Full-Stack Developer • MERN • Flutter</h3>
 
 <p align="center">
-  <a href="https://daksh902.in" target="_blank">
-    🌐 Portfolio
-  </a> • 
-  <a href="https://daksh902.com" target="_blank">
-    🚀 Main Website
-  </a> • 
-  <a href="https://www.linkedin.com/in/daksh-prajapati-4a28aa24b" target="_blank">
-    💼 LinkedIn
+  <a href="https://daksh902.in">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://daksh902.com">
+    <img src="https://img.shields.io/badge/Website-111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/daksh-prajapati-4a28aa24b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About
 
-I build scalable web apps and high-performance mobile applications that actually solve real-world problems — not just demo projects.
+I build **scalable web platforms** and **high-performance mobile apps** focused on real-world usability and clean architecture.
 
-- 🔭 Currently working on **SoftDocer** (Web + Mobile ecosystem)
-- 📱 Building smart Flutter apps for real-life use cases
-- ⚡ Focused on performance, clean UI & production-ready systems
-- 🌍 Based in Gujarat, India
-
----
-
-## 🚀 What I’m Working On
-
-- 🧾 **SoftDocer** → Document & service management platform  
-- 💰 **Expense Tracker App** → Smart finance tracking (Flutter)  
-- 🌐 **Portfolio** → Always improving → https://daksh902.in  
+- Building full-stack systems with **MERN**
+- Creating production-ready mobile apps using **Flutter**
+- Focused on performance, UI clarity & maintainability
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Current Focus
 
-### 👨‍🎨 Frontend
-`React.js` • `Next.js` • `React Native` • `Tailwind CSS` • `Material UI`
-
-### ⚙️ Backend
-`Node.js` • `Express.js` • `REST APIs`
-
-### 📱 Mobile
-`Flutter` • `Dart`
-
-### 🗄️ Database
-`MongoDB` • `MySQL` • `PostgreSQL`
-
-### ⚡ DevOps & Tools
-`Git` • `Docker` • `Vercel` • `Render` • `Hostinger` • `DNS Management`
+- **SoftDocer** → Document & service ecosystem  
+- **Finance Tools** → Smart tracking apps  
+- Improving → https://daksh902.in  
 
 ---
 
-## 📱 Live Projects
+## 🧰 Tech Stack
 
-- 🛒 **Impact Marketing & InSaver** *(Live on Play Store)*  
-- 🛍️ **Blissy Shopping** → E-commerce platform  
-- 🔊 **Meme Soundboard** → Fun utility app  
-- 🎨 **StyloX** → UI-focused mobile application  
+<p>
 
----
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-## 🎓 Education & Experience
+<br/>
 
-- 🎓 **Computer Engineering**  
-  → Strong foundation in DSA, OOP & system design  
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 
-- 💻 **Coding Ninjas**  
-  → Advanced training (2023–2025)
+<br/>
 
-- 🏢 **Softsove Pvt. Ltd.**  
-  → ReactJS & Flutter Developer (2025)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 
----
-
-## 📬 Let's Connect
-
-- 🌐 Portfolio: https://daksh902.in  
-- 🚀 Website: https://daksh902.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/daksh-prajapati-4a28aa24b  
-- 📧 Email: daksh.h.prajapati12@gmail.com  
-
----
-
-## ⚡ Personal Note
-
-> *From concept to code — I don’t just build apps, I build solutions that perform.*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daksh902&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh902&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+## 📱 Apps
+
+### 🤖 Android
+
+<a href="https://play.google.com/store/apps/details?id=com.maxora.keystone">
+  <img src="https://img.shields.io/badge/Keystone-Download-green?style=for-the-badge&logo=google-play"/>
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.in.savingbox">
+  <img src="https://img.shields.io/badge/SavingBox-Download-green?style=for-the-badge&logo=google-play"/>
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=memes.download.meme.templates.meme.generator.maker">
+  <img src="https://img.shields.io/badge/Meme%20Generator-Download-green?style=for-the-badge&logo=google-play"/>
+</a>
+
+---
+
+### 🍎 iOS
+
+<a href="https://apps.apple.com/in/app/soundbutttons-com-soundboard/id6756041397">
+  <img src="https://img.shields.io/badge/SoundButtons-App%20Store-black?style=for-the-badge&logo=apple"/>
+</a>
+
+---
+
+## 🎓 Background
+
+- Computer Engineering (DSA, OOP, System Design)
+- Coding Ninjas (Advanced Training)
+- ReactJS & Flutter Developer @ Softsove
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daksh902&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Daksh902&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh902&theme=tokyonight"/>
 </p>
-## 📱 Live Apps (Google Play)
-
-### 🚀 Keystone
-[![Download](https://img.shields.io/badge/Download-App-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.maxora.keystone)
 
 ---
 
-### 💰 SavingBox
-[![Download](https://img.shields.io/badge/Download-App-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.in.savingbox)
+## ⚡ Note
 
----
-
-### 😂 Meme Generator
-[![Download](https://img.shields.io/badge/Download-App-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=memes.download.meme.templates.meme.generator.maker)
+> I focus on building products that are actually used — clean, fast, and scalable.
