@@ -89,7 +89,7 @@ I build **scalable web platforms** and **high-performance mobile apps** focused 
 </a>
 <br>
 <a href="https://apps.apple.com/in/app/memes-co-in/id6761090869">
-  <img src="https://img.shields.io/badge/memes.co.in%20Store-black?style=for-the-badge&logo=apple"/>
+  <img src="https://img.shields.io/badge/memes.co.in-App%20Store-black?style=for-the-badge&logo=apple"/>
 </a>
 
 ---
