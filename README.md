@@ -87,6 +87,10 @@ I build **scalable web platforms** and **high-performance mobile apps** focused 
 <a href="https://apps.apple.com/in/app/soundbutttons-com-soundboard/id6756041397">
   <img src="https://img.shields.io/badge/SoundButtons-App%20Store-black?style=for-the-badge&logo=apple"/>
 </a>
+<br>
+<a href="https://apps.apple.com/in/app/soundbutttons-com-soundboard/id6756041397">
+  <img src="https://img.shields.io/badge/SoundButtons-App%20Store-black?style=for-the-badge&logo=apple"/>
+</a>
 
 ---
 
